@@ -1,4 +1,4 @@
-# 🚀 Script de Copia Full y Incremental con Exclusiones
+# 🚀 Script de Copia Full e Incremental con Exclusiones
 
 Script automatizado de **sincronización completa** vía SSH+RSYNC con exclusiones inteligentes para respaldos de proyectos de desarrollo web.
 
